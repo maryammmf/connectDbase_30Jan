@@ -1,0 +1,17 @@
+{
+    "name": "maryam/connect-dbase",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "maryam",
+            "email": "maryammmf@gmail.com"
+        }
+    ],
+    "require": {
+        "larapack/dd": "^1.1"
+    }
+}
